@@ -73,7 +73,6 @@ behind = '[⇣\(${count}\)](bg:overlay fg:rose)'
 disabled = false
 format = "[](fg:overlay)[ $time ]($style)[](fg:overlay)"
 style = "bg:overlay fg:rose"
-time_format = "%k:%M"
 use_12hr = false
 
 [username]
